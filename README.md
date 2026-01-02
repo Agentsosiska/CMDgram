@@ -1,4 +1,4 @@
-#The project itself works on python and contains 2 files: (server.py & client.py). 
+The project itself works on python and contains 2 files: (server.py & client.py). 
 
 1. To use CMDgram You will need to install python to your computer
 2.  If you want to text someone who is not on your same Wi-Fi network as you you will need to:
