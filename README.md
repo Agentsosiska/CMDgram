@@ -1,3 +1,6 @@
+
+**This is an opensource project so, feel free to change the code!**
+
 The project itself works on python and contains 2 files: (server.py & client.py). 
 
 1. To use CMDgram You will need to install python to your computer
